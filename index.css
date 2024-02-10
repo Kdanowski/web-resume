@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(73, 73, 73);
+    margin: auto;
+    width: fit-content;
+}
+
+.container {
+    overflow: hidden;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+  
+h1 {
+    font-family: arial;
+    background-color: grey;
+    width: auto;
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px;
+    color: white;
+}
+
+.links {
+    font-family: arial;
+    background-color: grey;
+    width: auto;
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px;
+    color: white;
+}
+
+button {
+    font-family: arial;
+    font-size: 20px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+    border: 2px;
+    color: black;
+    margin: 10px;
+    transition-duration: 0.5s;
+}
+
+button:hover {
+    font-family: arial;
+    background-color: black;
+    color: white;
+}
